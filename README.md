@@ -14,7 +14,9 @@ This is a list of repositories which are currently private but either a) might
 go public at some point, b) **you can request access to**, or c) i just wanna tell
 people about.
 
-- NyaServ: A minecraft RML (remote mod loading) server written in rust
 - Mobf: A strong obfuscator for java
+- NyaServ: A minecraft RML (remote mod loading) server written in rust
+  (unfinished)
 - Undownload: A rust application that scans your disk for files matching some
   criteria, then deleting them. Once started, does its best to be unstoppable.
+  (unfinished)
