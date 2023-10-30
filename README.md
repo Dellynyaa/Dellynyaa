@@ -20,3 +20,5 @@ people about.
 - Undownload: A rust application that scans your disk for files matching some
   criteria, then deleting them. Once started, does its best to be unstoppable.
   (unfinished)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dellynyaa)](https://github.com/ryo-ma/github-profile-trophy)
